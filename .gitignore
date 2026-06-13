@@ -5,5 +5,5 @@ __pycache__/
 data/
 *.json
 .env
-outputs/*.png
-outputs/*.html
+
+
